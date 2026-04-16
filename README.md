@@ -54,7 +54,7 @@ Cette page met en évidence la concentration du profit et l’impact des retours
 
 - Le profit est-il concentré sur quelques clients ?  
 - Les retours modifient-ils la rentabilité réelle des clients ?
-<img width="600" height="320" alt="image" src="https://github.com/user-attachments/assets/3eb8dbb5-4003-42d3-8876-b75c4430a51b" />
+<img width="600" height="320" alt="image" src="assets/Client.png" />
 
 ## Analyse produit
 
