@@ -27,7 +27,7 @@ Dans ce contexte, ce projet vise à transformer les données de ventes en indica
 
 ## Visualisation du rapport
 
-<img src="assets/Vidéo.mp4" >
+[Voir la vidéo](assets/Vidéo.mp4)
 
 ## Présentation du rapport 
 
