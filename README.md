@@ -27,7 +27,7 @@ Dans ce contexte, ce projet vise à transformer les données de ventes en indica
 
 ## Visualisation du rapport
 
-<img src="https://github.com/user-attachments/assets/932a5c52-1ef9-477d-8248-0687385e2e0c" width="600" height="320" >
+<img src="assets/Vidéo.mp4" >
 
 ## Présentation du rapport 
 
@@ -43,7 +43,7 @@ Cette page permet d’évaluer la performance globale et d’identifier les prin
 - Quelles régions génèrent le plus de valeur ?  
 - Quels segments contribuent le plus au profit ?  
 - Quelles dimensions expliquent les variations de performance ?  
-<img width="600" height="320" alt="image" src="https://github.com/user-attachments/assets/f30b9a7f-bb99-4bae-83c0-e15ce783270b" />
+<img width="600" height="320" alt="image" src="assets/Profit.png" />
 
 ## Analyse client
 **Objectif :** Qui sont les meilleurs clients ?
@@ -67,11 +67,11 @@ Cette page identifie les produits stratégiques et ceux à optimiser.
 - Quels produits génèrent le plus de profit ?   
 - Quels produits deviennent moins rentables à cause des retours ?  
 
-<img width="600" height="320" alt="image" src="https://github.com/user-attachments/assets/ab6423af-3286-4b54-8bfd-7dcb61366d69" />
+<img width="600" height="320" alt="image" src="assets/Produit.png" />
 
 
 - `Modélisation des données/`
-<img width="600" height="320" alt="image" src="https://github.com/user-attachments/assets/33716e09-2579-44bb-bf82-1f52ee4acb86" />
+<img width="600" height="320" alt="image" src="assets/Modélisation.png" />
 
 ## Outils et technologies
 
